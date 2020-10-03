@@ -1,0 +1,10 @@
+﻿body {
+    background-image: url('../IMAGEN/c5ifondo.png');
+    background-size: cover;
+    background-repeat: repeat-y;
+    height: auto;
+}
+
+* {
+    font-family: 'Graphik Regular';
+}

@@ -1,0 +1,32 @@
+﻿
+.gridview {
+    width: 100%;
+    margin: 8px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.gridview tr {
+    text-align: left;
+    border-bottom: solid;
+    border-color: #F0F1F3;
+    border-width: 4px;
+}
+
+.gridview th {
+    border: none;
+    background-color: #FFFFFF;
+    padding: 5px;
+    color: #437ef6;
+    border-bottom: 4px solid #0d2352;
+    font-size: medium;
+}
+
+.gridview td {
+    border: none;
+    padding: 8px;
+    margin: 5px;
+    font-size: small;
+}
+
+
